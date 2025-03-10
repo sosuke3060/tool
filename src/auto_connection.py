@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 
 # Streamlit アプリのURL
-STREAMLIT_APP_URL = "https://your-streamlit-app-url.streamlit.app"
+STREAMLIT_APP_URL = "https://sosuke3060-recipe-ai-srcapp-openai-nhywmb.streamlit.app/"
 
 def open_browser():
     options = webdriver.ChromeOptions()
